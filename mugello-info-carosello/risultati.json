@@ -1,0 +1,40 @@
+{
+  "pagina": "Mugello Info",
+  "handle": "@mugelloinfo",
+  "titolo": "Risultati del weekend",
+  "date": "31 ottobre – 1 novembre 2026",
+  "colori": {
+    "sfondo": "#0f2a1d",
+    "accento": "#f2c230",
+    "testo": "#ffffff",
+    "riga": "#16392a"
+  },
+  "categorie": [
+    {
+      "nome": "Eccellenza",
+      "girone": "",
+      "partite": [
+        { "casa": "SQUADRA CASA", "ospite": "SQUADRA OSPITE", "gol_casa": "-", "gol_ospite": "-" }
+      ]
+    },
+    {
+      "nome": "Promozione",
+      "girone": "",
+      "partite": [
+        { "casa": "SQUADRA CASA", "ospite": "SQUADRA OSPITE", "gol_casa": "-", "gol_ospite": "-" }
+      ]
+    },
+    {
+      "nome": "Prima Categoria",
+      "girone": "",
+      "partite": [
+        { "casa": "SQUADRA CASA", "ospite": "SQUADRA OSPITE", "gol_casa": "-", "gol_ospite": "-" }
+      ]
+    }
+  ],
+  "chiusura": {
+    "titolo": "Com'è andata la tua squadra?",
+    "testo": "Scrivilo nei commenti e tagga chi era allo stadio.",
+    "hashtag": "#MugelloInfo #CalcioMugello #CalcioDilettanti #Mugello"
+  }
+}
